@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990368931302",
+    "project_id": "barbut-aud",
+    "storage_bucket": "barbut-aud.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990368931302:android:c7130dd8b2eb8b89af0a27",
+        "android_client_info": {
+          "package_name": "com.example.barbut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIFTCZmxXcRMpsj-kgZfbncLE-QlqPiCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
